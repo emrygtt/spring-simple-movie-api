@@ -2,7 +2,7 @@
 
 This project is about movies for CRUD operations
 
-Simple Data : 
+Sample Data : 
 
 {
   "_id": {
